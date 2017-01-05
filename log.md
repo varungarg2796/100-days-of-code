@@ -17,3 +17,11 @@
 **Link to work** : 
 [1.]https://github.com/MayankShah1/to-do-app
 [2.]https://github.com/MayankShah1/Algorithms
+
+### Day 3: January 05, Thursday
+
+**Today's Progress**: I've added the functionality to create and delete to-do items in a to-do list.
+
+**Thoughts** : It's great to understand the MVC architecture in Ruby on Rails
+
+**Link to work** : https://github.com/MayankShah1/to-do-app
