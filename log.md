@@ -25,3 +25,11 @@
 **Thoughts** : It's great to understand the MVC architecture in Ruby on Rails
 
 **Link to work** : https://github.com/MayankShah1/to-do-app
+
+### Day 4: January 06, Friday
+
+**Today's Progress**: I've added the functionality to mark as completed a to-do item in a to-do list.
+
+**Thoughts** : All the functionalities are up now.
+
+**Link to work** : https://github.com/MayankShah1/to-do-app
